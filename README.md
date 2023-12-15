@@ -5,7 +5,7 @@
 ## Table of Contents
 1. [Proposal](#Proposal)
 2. [Data Aquisition](#Data-Aquisition)
-3. [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
+3. [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis)
 4. [Feature Engineering and Modeling](#Feature-Engineering-and-Modeling)
 5. [Data Visualizing](#Data-Visualizing)
 6. [Summary and Conclusions](#Summary-and-Conclusions)
@@ -57,7 +57,7 @@ for i, filename in enumerate(filenames):
 aws s3 ls s3://amazon-reviews-ea/landing/ --human-readable --summarize
 ```
 
-## Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis
 ```
 import json
 import boto3
