@@ -1,4 +1,4 @@
-![Amazon Logo](https://www.ceg.org/wp-content/uploads/2021/04/Amazon-Logo.png)
+![Amazon Logo](https://media.licdn.com/dms/image/C5612AQEHPbQPrqac6g/article-cover_image-shrink_423_752/0/1520222968224?e=1707955200&v=beta&t=Tnh6FQUxOrJ7EW2GMfWbV2jeVLgIy3Z_SZoQwJG1Adg)
 
 # Amazon US Customer Reviews Project
 
@@ -6,6 +6,9 @@
 1. [Proposal](#Proposal)
 2. [Data Aquisition](#Data-Aquisition)
 3. [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
+4. [Feature Engineering and Modeling](#Feature-Engineering-and-Modeling)
+5. [Data Visualizing](#Data-Visualizing)
+6. [Summary and Conclusions](#Summary-and-Conclusions)
 
 ## Proposal
 The dataset I intend to use is the Amazon US Customer Reviews Dataset. This dataset was found in Kaggle (22GB) and Hugging Face (32GB). The data source that I will be using will depend on which dataset holds more precedence in my analysis. For context, this dataset represents a sample of customer evaluations and opinions for different Amazon products (products listed on their website). There are over 130+ million customer reviews within the release of this dataset. This dataset was made to provide people of interest with a rich source of data for projects relating to natural language processing, machine learning, and many others. This dataset is divided into approximately 40 different product categories. Each category has features that are relevant to an Amazon product review. This includes the review body, the date of the review, and the star rating for the review. Each category also holds data on the product title as well as the product category. There are other attributes that exist for each category, but these are the main attributes that I will be focusing on in my analysis. I intend to conduct an analysis on the correlation of certain words to the star rating of the product. This will provide great insights on what words correlate with certain star ratings. I also intend to analyze trends between different product categories to see if any correlation exists between their sentiments.
