@@ -1,8 +1,8 @@
 ![Amazon Logo](https://media.licdn.com/dms/image/C5612AQEHPbQPrqac6g/article-cover_image-shrink_423_752/0/1520222968224?e=1707955200&v=beta&t=Tnh6FQUxOrJ7EW2GMfWbV2jeVLgIy3Z_SZoQwJG1Adg)
 
-**Course:** CIS 4130 (Big Data Technologies)
-**Project Title:** Amazon US Customer Reviews
-**Technologies**: Amazon EC2, Amazon S3, DataBricks, Python, PySpark, etc.
+- **Course:** CIS 4130 (Big Data Technologies)
+- **Project Title:** Amazon US Customer Reviews
+- **Technologies**: Amazon EC2, Amazon S3, DataBricks, Python, PySpark, etc.
 
 ## Table of Contents
 1. [Proposal](#Proposal)
